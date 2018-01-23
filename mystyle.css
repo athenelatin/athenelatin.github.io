@@ -38,28 +38,6 @@ a {
 	font-family: 'Source Sans Pro', sans-serif;
 }
 
-.sneKnapper {
-	width: 225px;
-	margin-right: auto;
-	margin-left: auto;
-}
-
-.sneKnapper #stop {
-	float: left; 
-}
-
-.sneKnapper #stop:visited {
-	color: blue;
-}
-
-.sneKnapper #start:visited {
-	color: blue;
-}
-
-.sneKnapper #start {
-	float: right;
-}
-
 ul li {
 	height: 38px;
 }

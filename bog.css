@@ -29,32 +29,12 @@ ul {
 	margin: 0px;
 	padding: 0px;
 }
+
 a {
 	padding: 0px;
 	text-decoration: none;
 	font-size: 18px;
 	font-family: 'Source Sans Pro', sans-serif;
-}
-.sneKnapper {
-	width: 225px;
-	margin-right: auto;
-	margin-left: auto;
-}
-
-.sneKnapper #stop {
-	float: left; 
-}
-
-.sneKnapper #stop:visited {
-	color: blue;
-}
-
-.sneKnapper #start:visited {
-	color: blue;
-}
-
-.sneKnapper #start {
-	float: right;
 }
 
 ul li {
